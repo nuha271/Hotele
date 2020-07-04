@@ -1,2 +1,1 @@
-# Hotele
-Simple Implementation to Hotel Management System
+A collection of my projects
